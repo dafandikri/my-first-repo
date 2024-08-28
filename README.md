@@ -1,7 +1,9 @@
-Nama : Erdafa Andikri
+Nama : Pak Bepe
 
-NPM : 2306244993
+NPM : 2201234567
 
-Kelas : PBP C
+Kelas : PBP A
 
-Hobi: Tidur
+Hobi : Tidur
+
+Jurusan : Ilmu Sistem Informasi Komputer
